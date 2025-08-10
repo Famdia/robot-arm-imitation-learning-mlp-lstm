@@ -27,7 +27,8 @@ Mais, le but de ce projet est de servir de point de départ : vous pouvez tenter
 `
 2. Télécharger les données RoboTurk (sur ce notebook, vous travaillerez sur tâche bins-Milk) disponible ici → https://roboturk.stanford.edu/
 3. Ouvrir le notebook sur Google Colab ou localement
-4. Exécuter le notebook pour reproduire les résultats
+4. Modifier le  chemin d'accès au dataset que vous venez de télécharger
+5. Exécuter le notebook pour reproduire les résultats
 
 ## Améliorations possibles
 
