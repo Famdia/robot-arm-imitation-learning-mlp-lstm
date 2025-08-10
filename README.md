@@ -14,3 +14,19 @@ L’objectif est de fournir une base pédagogique pour comprendre la préparatio
 * Implémentation MLP : entraînement sur états bruts
 * Implémentation LSTM : prise en compte des séquences temporelles
 * Visualisation : comparaison des trajectoires prédites et réelles en 3D
+
+## Résultats
+
+Les résultats actuels montrent qu’il reste une marge d’amélioration importante.
+Mais, le but de ce projet est de servir de point de départ : vous pouvez tenter d’optimiser l’architecture, la taille des séquences, ou les hyperparamètres pour obtenir de meilleures performances.
+
+## Comment utiliser
+
+**1. Cloner le dépôt**
+`git clone https://github.com/Famdia/robot-arm-imitation-learning-mlp-lstm.git
+`
+
+**2. Ouvrir le notebook sur Google Colab ou localement**
+**3. Télécharger les données RoboTurk (sur ce notebook, vous travaillerez sur tâche bins-Milk)**
+**4. Exécuter le notebook pour reproduire les résultats**
+
