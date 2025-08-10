@@ -9,7 +9,7 @@ L’objectif est de fournir une base pédagogique pour comprendre la préparatio
 
 ## Contenu du projet
 
-* notebook.ipynb → Code complet du prétraitement, de l’entraînement et de l’évaluation (exécuté sous Google Colab)
+* Robotique.ipynb → Code complet du prétraitement, de l’entraînement et de l’évaluation (exécuté sous Google Colab)
 * Exploration du dataset : lecture et analyse du fichier demo.hdf5 de la tâche bins-Milk
 * Implémentation MLP : entraînement sur états bruts
 * Implémentation LSTM : prise en compte des séquences temporelles
@@ -22,11 +22,16 @@ Mais, le but de ce projet est de servir de point de départ : vous pouvez tenter
 
 ## Comment utiliser
 
-**1. Cloner le dépôt**
+1. Cloner le dépôt
 `git clone https://github.com/Famdia/robot-arm-imitation-learning-mlp-lstm.git
 `
+2. Télécharger les données RoboTurk (sur ce notebook, vous travaillerez sur tâche bins-Milk) disponible ici → https://roboturk.stanford.edu/
+3. Ouvrir le notebook sur Google Colab ou localement
+4. Exécuter le notebook pour reproduire les résultats
 
-**2. Ouvrir le notebook sur Google Colab ou localement**
-**3. Télécharger les données RoboTurk (sur ce notebook, vous travaillerez sur tâche bins-Milk)**
-**4. Exécuter le notebook pour reproduire les résultats**
+## Améliorations possibles
 
+* Utiliser DAgger (Dataset Aggregation) pour collecter de nouvelles démonstrations interactives
+* Intégrer la vision par ordinateur pour exploiter les images de la simulation
+* Augmenter la taille des séquences pour capturer plus de contexte temporel
+* Tester des modèles transformers pour séries temporelles
