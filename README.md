@@ -25,7 +25,7 @@ Mais, le but de ce projet est de servir de point de départ : vous pouvez tenter
 1. Cloner le dépôt
 `git clone https://github.com/Famdia/robot-arm-imitation-learning-mlp-lstm.git
 `
-2. Télécharger les données RoboTurk (sur ce notebook, vous travaillerez sur tâche bins-Milk) disponible ici → https://roboturk.stanford.edu/
+2. Télécharger les données RoboTurk (sur ce notebook, vous travaillerez sur tâche bins-Milk) disponible ici → https://roboturk.stanford.edu/ ou en cliquant directement sur ce lien http://cvgl.stanford.edu/projects/roboturk/RoboTurkPilot.zip
 3. Ouvrir le notebook sur Google Colab ou localement
 4. Modifier le  chemin d'accès au dataset que vous venez de télécharger
 5. Exécuter le notebook pour reproduire les résultats
