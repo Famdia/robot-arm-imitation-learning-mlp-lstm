@@ -9,7 +9,7 @@ L’objectif est de fournir une base pédagogique pour comprendre la préparatio
 
 ## Contenu du projet
 
-* Robotique.ipynb → Code complet du prétraitement, de l’entraînement et de l’évaluation (exécuté sous Google Colab)
+* Robotique.ipynb : Code complet du prétraitement, de l’entraînement et de l’évaluation (exécuté sous Google Colab)
 * Exploration du dataset : lecture et analyse du fichier demo.hdf5 de la tâche bins-Milk
 * Implémentation MLP : entraînement sur états bruts
 * Implémentation LSTM : prise en compte des séquences temporelles
